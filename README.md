@@ -1,4 +1,4 @@
-# Codepen Syntax Theme
+# Codepen.io Syntax Theme
 
 Make atom look like the default editor on [codepen](https://codepen.io) with this theme.
 

@@ -1,5 +1,5 @@
 {
-  "name": "codepen-syntax",
+  "name": "codepenio-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "Make atom look like codepen.io's default editor.",
@@ -8,6 +8,7 @@
     "theme",
     "codepen"
   ],
+  "repository": "https://github.com/penguoir/codepen-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
