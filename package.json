@@ -1,0 +1,15 @@
+{
+  "name": "codepen-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Make atom look like codepen.io's default editor.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "codepen"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
